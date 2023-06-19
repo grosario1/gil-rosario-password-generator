@@ -16,7 +16,7 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-gi
 
 
 
-![Alt text]("../../assets/password-gen-main-page.html)
+![Alt text]("../../assets/password-gen-main-page.jpg)
 ![Alt tect]("../../assets/password-gen-character-length-prompt.jpg)
 ![Alt tect]("../../assets/password-gen-special-chara-prompt.jpg)
 ![Alt tect]("../../assets/password-gen-special-chara-prompt2.jpg)
