@@ -16,10 +16,10 @@ https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-gi
 
 
 
-![Alt text]("../../assets/password-gen-main-page.jpg)
-![Alt tect]("../assets/../../assets/password-gen-character-length-prompt.jpg)
-![Alt tect]("../assets/../../assets/password-gen-special-chara-prompt.jpg)
-![Alt tect]("../assets/../../assets/password-gen-special-chara-prompt2.jpg)
+![Alt text]("../assets/password-gen-main-page.jpg)
+![Alt tect]("../assets/password-gen-character-length-prompt.jpg)
+![Alt tect]("../assets/password-gen-special-chara-prompt.jpg)
+![Alt tect]("../assets/password-gen-special-chara-prompt2.jpg)
 
 You can find code repo [here.](https://github.com/grosario1/gil-rosario-password-generator) \
 Link to deployed live URL [here.](https://grosario1.github.io/gil-rosario-password-generator/)
