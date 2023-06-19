@@ -29,3 +29,14 @@ generateBtn.addEventListener("click", writePassword);
 
         return password;
       }
+
+// Prompt for password length choosing a number between 8 and 128 characters. User must choose or an Invalid message is prompted
+function getPasswordLength() {
+  var length = parseInt(prompt("Enter the length of the password (between 8 and 128 characters):"));
+
+  while (isNaN(length) || length < 8 || length > 128) {
+    length = parseInt(prompt("Invalid input! Please enter a valid length (between 8 and 128 characters):"));
+  }
+
+  return length;
+}
