@@ -1,7 +1,7 @@
 # gil-rosario-password-generator
 ## Description
 
-Info coming soon
+Info coming soon.
 
 
 ## Installation
